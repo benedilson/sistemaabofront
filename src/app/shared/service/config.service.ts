@@ -1,0 +1,1 @@
+export const HEMOCE_API: string = 'http://localhost:8080';
